@@ -1,0 +1,16 @@
+platforms:
+  win32: res
+  ios: resIOS
+  android: resAndroid
+
+project:
+  name: "magic math"
+  path: E:\git\math\mathmagic
+  config_out: config
+  unit_out: src/arena
+
+unit_design_path:
+  D:\xmind\unit_design
+
+config_path:
+  E:\svn\product\配置文件
