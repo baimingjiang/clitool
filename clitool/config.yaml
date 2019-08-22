@@ -4,13 +4,13 @@ platforms:
   android: resAndroid
 
 project:
-  name: "magic math"
-  path: E:\git\math\mathmagic
+  name: "Test out"
+  path: D:\sources\clitool\examples\out
   config_out: config
-  unit_out: src/arena
+  unit_out: src/ai
 
 unit_design_path:
-  D:\xmind\unit_design
+  D:\sources\clitool\examples\xmind\design
 
 config_path:
   E:\svn\product\配置文件

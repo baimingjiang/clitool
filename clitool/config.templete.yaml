@@ -4,12 +4,13 @@ platforms:
   android: resAndroid
 
 project:
-  path: D:/project_tmp
+  name: "magic math"
+  path: /yourProjectPath
   config_out: config
-  unit_out: src/arena
+  unit_out: src/ai
 
 unit_design_path:
-  D:\xmind\
+  /xmind/unit_design
 
 config_path:
-  E:\svn\product\配置文件
+  /配置文件
